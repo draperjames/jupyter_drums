@@ -11,7 +11,7 @@ Here is an example of the most basic implementation in a classic drum pad 8 x 8 
 
 Here is an other example using those same assets but used in an interactive HUD for a controller UX
 
-<img src="images/pads_and_buttons.PNG" width="800" />
+<img src="images/pads_and_buttons_display.PNG" width="800" />
 
 ## Stay tuned more content to come
 
