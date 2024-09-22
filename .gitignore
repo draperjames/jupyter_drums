@@ -1,4 +1,5 @@
 Roland TR-808/
 .ipynb_checkpoints/
 
+*.wav
 _*.ipynb
